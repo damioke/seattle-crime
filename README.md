@@ -17,13 +17,6 @@
 - Make sure the tables you are using for test cases are dropped in MySQL db: seattle_crime
 - Make sure the reports you are using for test cases are dropped in: C:\wamp\bin\mysql\mysql5.6.17\data\seattle_crime
 - Navigate to where all the scripts and program are present there: C:\wamp\bin\mysql\mysql5.6.17\bin
-<<<<<<< HEAD
 - Right click to click gitbash cmd line. 
-=======
-- Right click to click gitbash cmd line 
->>>>>>> 41a3df3164d696921edba476a68b640683ea1668
 - Run: ./job.sh
 
-
-# editing the added line
-1 - 1 + 1
