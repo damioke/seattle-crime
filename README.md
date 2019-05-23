@@ -19,4 +19,3 @@
 - Navigate to where all the scripts and program are present there: C:\wamp\bin\mysql\mysql5.6.17\bin
 - Right click to click gitbash cmd line. 
 - Run: ./job.sh
-
