@@ -23,3 +23,7 @@
 - Right click to click gitbash cmd line 
 >>>>>>> 41a3df3164d696921edba476a68b640683ea1668
 - Run: ./job.sh
+
+
+# just adding
+1 - 1
